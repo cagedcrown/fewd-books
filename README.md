@@ -1,4 +1,4 @@
-This is a collection of all of the books related to Front-End Web Development that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Front-End Web Development! I am also updating a similar [JavaScript Repo](https://github.com/javascript-books) & [Ruby/Rails Repo](https://github.com/cagedcrown/ruby-books).
+This is a collection of all of the books related to Front-End Web Development that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Front-End Web Development! I am also updating a similar [JavaScript Repo](https://github.com/cagedcrown/javascript-books) & [Ruby/Rails Repo](https://github.com/cagedcrown/ruby-books).
 
 ## HTML/5
 
