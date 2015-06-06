@@ -1,14 +1,15 @@
 This is a collection of all of the books related to Front-End Web Development that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Front-End Web Development! I am also updating a similar [JavaScript Repo](https://github.com/cagedcrown/javascript-books) & [Ruby/Rails Repo](https://github.com/cagedcrown/ruby-books).
 
 ## HTML/5
-- []()
+- [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 - []()
 - []()
 
 ## CSS/3
-- []()
-- []()
-- []()
+- [CSS Guidelines](http://cssguidelin.es/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Smashing Magazine](http://www.smashingmagazine.com/)
+- [A List Apart](http://alistapart.com/)
 
 ## SASS
 - [The SASS Way](http://thesassway.com/)
