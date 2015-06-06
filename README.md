@@ -13,6 +13,9 @@ This is a collection of all of the books related to Front-End Web Development th
 ## Web Typography
 
 ## Flexbox
+- [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox in 5](http://flexboxin5.com/)
 
 ## SVG
 
