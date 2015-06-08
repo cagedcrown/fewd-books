@@ -28,9 +28,10 @@ This is a collection of all of the books related to Front-End Web Development th
 - [Flexbox in 5](http://flexboxin5.com/)
 
 ### Responsive Web Design
-- []()
-- []()
-- []()
+- [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+- [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+- [Media Queries for Responsiveness](https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/use-media-queries?hl=en)
+- [MDN - Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 
 ### Foundation
 - []()
